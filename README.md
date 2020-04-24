@@ -4,7 +4,7 @@ There should be no necessary libraries to run the code here beyond the Anacondad
 
 ## Project Motivation
 
-I am currently looking for industrial opportunities. Both data scientist and software engineer seems to be good choices for me. Nowadays data scientist seems to be the most exciting jobs.  [LinkedIn reported that the data scientist is the most promising job in 2019 with a 56% of growth in job posts.](https://blog.linkedin.com/2019/january/10/linkedins-most-promising-jobs-of-2019)   As a potential data scientist, I would like to use data to find the truth. For this project, I was interestested in using Stack Overflow surveys from 2011 to 2019 to better understand:
+I am currently looking for industrial opportunities. Both data scientist and software engineer seems to be good choices for me. Nowadays data scientist seems to be the most exciting jobs.  [LinkedIn reported that the data scientist is the most promising job in 2019 with a 56% of growth in job posts.](https://blog.linkedin.com/2019/january/10/linkedins-most-promising-jobs-of-2019)   As a potential data scientist, I would like to use data to find the truth. For this project, I was interested in using Stack Overflow surveys from 2011 to 2019 to better understand:
 1.  Is there a real upward trend of numbers of professional data scientists in the industry?
 2. Who makes more money? data scientist or software engineer or data analyst?
 3. Who is more satisfied with their jobs?
