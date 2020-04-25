@@ -22,6 +22,7 @@ There are 4 notebooks available here to showcase work related to the above quest
 ## Results
 
 The main findings of the code can be found at the post available: 
+https://medium.com/@qianh1225/data-scientist-the-most-promising-job-cc3cead199b8
 
 ## Licensing, Authors, Acknowledgements
 
