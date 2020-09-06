@@ -110,19 +110,6 @@ def convert_company_size_2018(data_2018, data_2018_q2):
                 data_2018_q2.loc[i, 'company_size'] = 'big'
     return
 
-def combine_data_to_plot(data_tmp1, data_tmp2):
-    data_tmp1['professional'] = 'DEV'
-    data_tmp1.loc[data_tmp1['is_DS_ML'],'professional'] = 'DS'
-    data_tmp1.loc[data_tmp1['is_DA'],'professional']= 'DA'
-    data_tmp1['year'] = 2019
-    data_tmp2['professional'] = 'DEV'
-    data_tmp2.loc[data_tmp2['is_DS_ML'],'professional'] = 'DS'
-    data_tmp2.loc[data_tmp2['is_DA'],'professional']= 'DA'
-    data_tmp2['year'] = 2018
-    data_tmp = pd.concat([data_tmp1[['professional', 'year', 'salary_annual',                                             'country', 'company_size']],
-                         data_tmp2[['professional', 'year', 'salary_annual',                                             'country', 'company_size']]])
-    return data_tmp
-
 def add_number(ax, props, order):
     # add number in the bar chart
     for i in range(props.shape[0]):
