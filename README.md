@@ -13,7 +13,7 @@ I am currently looking for industrial opportunities. Both data scientist and sof
 
 ## Data Descriptions
 
-For this project, I used Stack Overflow surveys from 2011 to 2019, which can bedownloaded in [Stack Overflow’s Annual Developer Surveys](https://insights.stackoverflow.com/survey).  The surveys started from 2011 to 2019. The numbers of participants grows from 2813 in 2011 to 88883 in 2019. The surveys asked questions related to multiple aspects of jobs as a developer.
+For this project, I used Stack Overflow surveys from 2011 to 2019, which can be downloaded in [Stack Overflow’s Annual Developer Surveys](https://insights.stackoverflow.com/survey).  The surveys started from 2011 to 2019. The numbers of participants grows from 2813 in 2011 to 88883 in 2019. The surveys asked questions related to multiple aspects of jobs as a developer.
 
 ## File Descriptions
 
@@ -22,6 +22,7 @@ There are 4 notebooks available here to showcase work related to the above quest
 ## Results
 
 The main findings of the code can be found at the post available: 
+https://medium.com/@qianh1225/data-scientist-the-most-promising-job-cc3cead199b8
 
 ## Licensing, Authors, Acknowledgements
 
